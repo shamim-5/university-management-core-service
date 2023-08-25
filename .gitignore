@@ -1,2 +1,5 @@
 node_modules
 .env
+
+# Error logs and Success logs
+logs
